@@ -52,10 +52,12 @@ body {
     overflow: hidden;
 }
 
-.banner video {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+.banner {
+    background-image: url('HomeBg.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh; /* full screen height */
 }
 
 .banner-overlay {
