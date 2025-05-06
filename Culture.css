@@ -40,7 +40,7 @@ body {
     overflow: hidden;
 }
 
-.culture-video-section video {
+.culture-video-section img {
     width: 100%;
     height: 100%;
     object-fit: cover;
